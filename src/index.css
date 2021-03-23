@@ -1,5 +1,6 @@
 :root {
-  --primary: #cc7722;
+  /* --primary: #cc7722; */
+  --primary: 'khaki'
 }
 
 @font-face {
